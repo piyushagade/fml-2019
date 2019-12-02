@@ -4,7 +4,7 @@
 ## Notes
 * Optional arguments are prefixed with '!'
 * Please remove '[' and ']' from arguments when attempting to run any program using the following guide.
-* The team has provide two seperate trained models. One for the easy test set ('./models/model_a_b.ckpt'), and one for the hard set ('./models/model_all.ckpt').
+* __The team has provide two seperate trained models__. One for the easy test set ('./models/model_a_b.ckpt'), and one for the hard set ('./models/model_all.ckpt').
 
 ## Programs description
 
