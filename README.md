@@ -4,6 +4,7 @@
 ## Notes
 * Optional arguments are prefixed with '!'
 * Please remove '[' and ']' from arguments when attempting to run any program using the following guide.
+* The team has provide two seperate trained models. One for the easy test set ('./models/model_a_b.ckpt'), and one for the hard set ('./models/model_all.ckpt').
 
 ## Programs description
 
@@ -48,12 +49,12 @@ The boolean controls whether to standardize and preprocess data before evaluatin
 
 ##### Outputs:
 The program on completion saves:
-* predicted_labels in './results'. This file contains characters class labels. For example, a, b, et cetera.
-* predicted_classes in './results'. This file contains numerical class labels. For example, 1, 2, et cetera.
-* a classification report if test_labels_path is provided.
+* predicted_labels in './results'. This file contains characters class labels. For example, 'a', 'b', et cetera.
+* predicted_classes in './results'. This file contains numerical class labels. For example, '1', '2', et cetera.
+* a classification report if **test_labels_path** is provided.
 
 ## Configurations
-All the configurations are defined in ./modules/globals.py. <br>
+All the configurations are defined in './modules/globals.py'. <br>
 For instance,
 * No. of epochs
 * Learning rate
