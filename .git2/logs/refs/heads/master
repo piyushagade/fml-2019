@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 86304416d2284e554a1fab462a9fb00570645a66 Piyush Agade <piyushagade@gmail.com> 1575106508 -0500	commit (initial): First commit
+86304416d2284e554a1fab462a9fb00570645a66 d53872441be3ae693407bdd72f0f661290c43c84 Piyush Agade <piyushagade@gmail.com> 1575106668 -0500	commit: Added test.py; gitignore;
+d53872441be3ae693407bdd72f0f661290c43c84 bac646201d2b39abfb60b8a57d381363295dc74d Piyush Agade <piyushagade@gmail.com> 1575136580 -0500	commit: Added train.py
+bac646201d2b39abfb60b8a57d381363295dc74d d70da91811a162f9360a6ee3900927213f118aad Piyush Agade <piyushagade@gmail.com> 1575140574 -0500	commit: Better directory structure; Fixed some errors
+d70da91811a162f9360a6ee3900927213f118aad 492277a205a40a247371357d4aaff88ad0aa5aac Piyush Agade <piyushagade@gmail.com> 1575140621 -0500	commit: Better directory structure; Fixed some errors
+492277a205a40a247371357d4aaff88ad0aa5aac f0f648ed7223aeceab53713c172025ae0cd9f1c1 Piyush Agade <piyushagade@gmail.com> 1575140682 -0500	commit: Better directory structure; Fixed some errors
+f0f648ed7223aeceab53713c172025ae0cd9f1c1 3f26d579889f91c087314453f3369e2c6bbebe9d Piyush Agade <piyushagade@gmail.com> 1575148755 -0500	commit: Added accuracy metrics; corrected loss metric; Added accuracy charts
+3f26d579889f91c087314453f3369e2c6bbebe9d 4f4114b3eece5b16e347216d7ec46b74fd6f73e7 Piyush Agade <piyushagade@gmail.com> 1575269893 -0500	commit: Added readme; Modified test.py to include model_path in arguments
+4f4114b3eece5b16e347216d7ec46b74fd6f73e7 ed810440e8c61a595712c38538bd4a5247240b22 Piyush Agade <piyushagade@gmail.com> 1575269968 -0500	commit: Added readme; Modified test.py to include model_path in arguments
+ed810440e8c61a595712c38538bd4a5247240b22 9768b1efcc4f94173f7337fb2bf1db82c46afbb0 Piyush Agade <piyushagade@gmail.com> 1575270013 -0500	commit: Added readme; Modified test.py to include model_path in arguments
+9768b1efcc4f94173f7337fb2bf1db82c46afbb0 7d0c86358f6a94f30cf7ae35ba4f8e7e028c00af Piyush Agade <piyushagade@gmail.com> 1575270062 -0500	commit: Added readme; Modified test.py to include model_path in arguments
+7d0c86358f6a94f30cf7ae35ba4f8e7e028c00af 303a345a49701807eafdb31abe0edb6b280b7ab3 Piyush Agade <piyushagade@gmail.com> 1575270146 -0500	commit: Added readme; Modified test.py to include model_path in arguments
+303a345a49701807eafdb31abe0edb6b280b7ab3 42ae09e260a18902b95997d6e8f543b6e8d1cba9 Piyush Agade <piyushagade@gmail.com> 1575270182 -0500	commit: Added readme; Modified test.py to include model_path in arguments
+42ae09e260a18902b95997d6e8f543b6e8d1cba9 3af6332dc792e4f772efb8ed28a86493773323d4 Piyush Agade <piyushagade@gmail.com> 1575270709 -0500	commit: Added readme; Modified test.py to include model_path in arguments

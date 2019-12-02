@@ -1,0 +1,969 @@
+Training model:
+ # of epochs: 50, Learning rate: 0.001, Batch size: 64
+
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+
+Epoch 0:
+        Training:    Loss: 1.518, Accuracy: 0.805
+        Validation:  Loss: 1.366, Accuracy: 0.924
+
+Epoch 1:
+        Training:    Loss: 1.376, Accuracy: 0.914
+        Validation:  Loss: 1.331, Accuracy: 0.95
+
+Epoch 2:
+        Training:    Loss: 1.336, Accuracy: 0.945
+        Validation:  Loss: 1.324, Accuracy: 0.955
+
+Epoch 3:
+        Training:    Loss: 1.327, Accuracy: 0.955
+        Validation:  Loss: 1.327, Accuracy: 0.949
+
+Epoch 4:
+        Training:    Loss: 1.32, Accuracy: 0.959
+        Validation:  Loss: 1.316, Accuracy: 0.961
+
+Epoch 5:
+        Training:    Loss: 1.323, Accuracy: 0.967
+        Validation:  Loss: 1.318, Accuracy: 0.955
+
+Epoch 6:
+        Training:    Loss: 1.317, Accuracy: 0.973
+        Validation:  Loss: 1.314, Accuracy: 0.964
+
+Epoch 7:
+        Training:    Loss: 1.307, Accuracy: 0.972
+        Validation:  Loss: 1.309, Accuracy: 0.964
+
+Epoch 8:
+        Training:    Loss: 1.307, Accuracy: 0.977
+        Validation:  Loss: 1.308, Accuracy: 0.964
+
+Epoch 9:
+        Training:    Loss: 1.301, Accuracy: 0.978
+        Validation:  Loss: 1.313, Accuracy: 0.969
+
+Epoch 10:
+        Training:    Loss: 1.295, Accuracy: 0.981
+        Validation:  Loss: 1.302, Accuracy: 0.972
+
+Epoch 11:
+        Training:    Loss: 1.294, Accuracy: 0.982
+        Validation:  Loss: 1.304, Accuracy: 0.972
+
+Epoch 12:
+        Training:    Loss: 1.298, Accuracy: 0.985
+        Validation:  Loss: 1.301, Accuracy: 0.97
+
+Epoch 13:
+        Training:    Loss: 1.299, Accuracy: 0.978
+        Validation:  Loss: 1.303, Accuracy: 0.973
+
+Epoch 14:
+        Training:    Loss: 1.29, Accuracy: 0.985
+        Validation:  Loss: 1.306, Accuracy: 0.968
+
+Epoch 15:
+        Training:    Loss: 1.297, Accuracy: 0.988
+        Validation:  Loss: 1.304, Accuracy: 0.969
+
+Epoch 16:
+        Training:    Loss: 1.384, Accuracy: 0.893
+        Validation:  Loss: 1.335, Accuracy: 0.938
+
+Epoch 17:
+        Training:    Loss: 1.335, Accuracy: 0.942
+        Validation:  Loss: 1.323, Accuracy: 0.952
+
+Epoch 18:
+        Training:    Loss: 1.316, Accuracy: 0.964
+        Validation:  Loss: 1.316, Accuracy: 0.96
+
+Epoch 19:
+        Training:    Loss: 1.321, Accuracy: 0.966
+        Validation:  Loss: 1.314, Accuracy: 0.962
+
+Epoch 20:
+        Training:    Loss: 1.31, Accuracy: 0.968
+        Validation:  Loss: 1.31, Accuracy: 0.964
+
+Epoch 21:
+        Training:    Loss: 1.301, Accuracy: 0.974
+        Validation:  Loss: 1.309, Accuracy: 0.967
+
+Epoch 22:
+        Training:    Loss: 1.296, Accuracy: 0.981
+        Validation:  Loss: 1.303, Accuracy: 0.974
+
+Epoch 23:
+        Training:    Loss: 1.297, Accuracy: 0.978
+        Validation:  Loss: 1.302, Accuracy: 0.973
+
+Epoch 24:
+        Training:    Loss: 1.303, Accuracy: 0.984
+        Validation:  Loss: 1.304, Accuracy: 0.97
+
+Epoch 25:
+        Training:    Loss: 1.293, Accuracy: 0.984
+        Validation:  Loss: 1.307, Accuracy: 0.97
+
+Epoch 26:
+        Training:    Loss: 1.293, Accuracy: 0.984
+        Validation:  Loss: 1.3, Accuracy: 0.974
+
+Epoch 27:
+        Training:    Loss: 1.291, Accuracy: 0.985
+        Validation:  Loss: 1.299, Accuracy: 0.976
+
+Epoch 28:
+        Training:    Loss: 1.3, Accuracy: 0.988
+        Validation:  Loss: 1.297, Accuracy: 0.977
+
+Epoch 29:
+        Training:    Loss: 1.288, Accuracy: 0.987
+        Validation:  Loss: 1.3, Accuracy: 0.974
+
+Epoch 30:
+        Training:    Loss: 1.291, Accuracy: 0.99
+        Validation:  Loss: 1.3, Accuracy: 0.976
+
+Epoch 31:
+        Training:    Loss: 1.285, Accuracy: 0.991
+        Validation:  Loss: 1.299, Accuracy: 0.977
+
+Epoch 32:
+        Training:    Loss: 1.284, Accuracy: 0.992
+        Validation:  Loss: 1.297, Accuracy: 0.976
+
+Epoch 33:
+        Training:    Loss: 1.285, Accuracy: 0.99
+        Validation:  Loss: 1.298, Accuracy: 0.976
+
+Epoch 34:
+        Training:    Loss: 1.286, Accuracy: 0.992
+        Validation:  Loss: 1.3, Accuracy: 0.975
+
+Epoch 35:
+        Training:    Loss: 1.286, Accuracy: 0.99
+        Validation:  Loss: 1.302, Accuracy: 0.974
+
+Epoch 36:
+        Training:    Loss: 1.29, Accuracy: 0.991
+        Validation:  Loss: 1.303, Accuracy: 0.975
+
+Epoch 37:
+        Training:    Loss: 1.286, Accuracy: 0.991
+        Validation:  Loss: 1.298, Accuracy: 0.976
+
+Epoch 38:
+        Training:    Loss: 1.283, Accuracy: 0.992
+        Validation:  Loss: 1.296, Accuracy: 0.977
+
+Epoch 39:
+        Training:    Loss: 1.283, Accuracy: 0.993
+        Validation:  Loss: 1.297, Accuracy: 0.977
+
+Epoch 40:
+        Training:    Loss: 1.283, Accuracy: 0.991
+        Validation:  Loss: 1.295, Accuracy: 0.981
+
+Epoch 41:
+        Training:    Loss: 1.281, Accuracy: 0.994
+        Validation:  Loss: 1.294, Accuracy: 0.98
+
+Epoch 42:
+        Training:    Loss: 1.282, Accuracy: 0.992
+        Validation:  Loss: 1.299, Accuracy: 0.975
+
+Epoch 43:
+        Training:    Loss: 1.281, Accuracy: 0.994
+        Validation:  Loss: 1.298, Accuracy: 0.976
+
+Epoch 44:
+        Training:    Loss: 1.282, Accuracy: 0.993
+        Validation:  Loss: 1.297, Accuracy: 0.978
+
+Epoch 45:
+        Training:    Loss: 1.282, Accuracy: 0.994
+        Validation:  Loss: 1.297, Accuracy: 0.975
+
+Epoch 46:
+        Training:    Loss: 1.28, Accuracy: 0.996
+        Validation:  Loss: 1.295, Accuracy: 0.977
+
+Epoch 47:
+        Training:    Loss: 1.28, Accuracy: 0.995
+        Validation:  Loss: 1.299, Accuracy: 0.972
+
+Epoch 48:
+        Training:    Loss: 1.283, Accuracy: 0.995
+        Validation:  Loss: 1.299, Accuracy: 0.974
+
+Epoch 49:
+        Training:    Loss: 1.299, Accuracy: 0.976
+        Validation:  Loss: 1.3, Accuracy: 0.976
+
+New model saved: './models/./models/0001_64_5_07_conv_net_model.ckpt
+
+Metrics saved in: './metrics/'
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/balanced_train_data.npy ./data/raw/balanced_train_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+              precision    recall  f1-score   support
+
+         1.0       1.00      0.99      1.00       783
+         2.0       0.99      1.00      0.99       783
+         3.0       1.00      1.00      1.00       783
+         4.0       1.00      0.99      0.99       783
+         5.0       0.99      0.99      0.99       783
+         6.0       0.98      1.00      0.99       783
+         7.0       1.00      0.99      0.99       783
+         8.0       1.00      0.99      0.99       783
+
+    accuracy                           0.99      6264
+   macro avg       0.99      0.99      0.99      6264
+weighted avg       0.99      0.99      0.99      6264
+
+
+Predictions saved to: './results/' as .npy files.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/balanced_train_data.npy ./data/raw/balanced_train_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source
+libifcoremd.dll    00007FF9C3983B58  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FFAB6F65FA3  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFAB9057BD4  Unknown               Unknown  Unknown
+ntdll.dll          00007FFAB976CED1  Unknown               Unknown  Unknown
+QObject::~QObject: Timers cannot be stopped from another thread
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/test_data.npy ./data/raw/test_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00         5
+           2       1.00      1.00      1.00         5
+           3       1.00      1.00      1.00         5
+           4       1.00      1.00      1.00         5
+           5       1.00      1.00      1.00         5
+           6       1.00      0.80      0.89         5
+           7       0.83      1.00      0.91         5
+           8       1.00      1.00      1.00         5
+
+    accuracy                           0.97        40
+   macro avg       0.98      0.97      0.97        40
+weighted avg       0.98      0.97      0.97        40
+
+
+Predictions saved to: './results/' as .npy files.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/train.py" ./data/raw/only_a_b_data.npy ./data/raw/only_a_b_labels.npy
+
+Using custom dataset for training.
+
+Traceback (most recent call last):
+  File "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/train.py", line 29, in <module>
+    train_data_object = _.d.standardize(_, train_data_object)
+  File "c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\data.py", line 46, in standardize
+    data_object[i] = _.preprocess.image(_, data_object[i])
+ValueError: could not broadcast input array from shape (60,60) into shape (54,54)
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/train.py" ./data/raw/only_a_b_data.npy ./data/raw/only_a_b_labels.npy
+
+Using custom dataset for training.
+
+
+Training model:
+ # of epochs: 50, Learning rate: 0.001, Batch size: 64
+
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+
+Epoch 0:
+        Training:    Loss: 1.45, Accuracy: 0.903
+        Validation:  Loss: 1.337, Accuracy: 0.968
+
+Epoch 1:
+        Training:    Loss: 1.309, Accuracy: 0.976
+        Validation:  Loss: 1.303, Accuracy: 0.978
+
+Epoch 2:
+        Training:    Loss: 1.296, Accuracy: 0.981
+        Validation:  Loss: 1.294, Accuracy: 0.981
+
+Epoch 3:
+        Training:    Loss: 1.297, Accuracy: 0.978
+        Validation:  Loss: 1.296, Accuracy: 0.978
+
+Epoch 4:
+        Training:    Loss: 1.29, Accuracy: 0.986
+        Validation:  Loss: 1.291, Accuracy: 0.984
+
+Epoch 5:
+        Training:    Loss: 1.292, Accuracy: 0.982
+        Validation:  Loss: 1.291, Accuracy: 0.984
+
+Epoch 6:
+        Training:    Loss: 1.293, Accuracy: 0.983
+        Validation:  Loss: 1.292, Accuracy: 0.981
+
+Epoch 7:
+        Training:    Loss: 1.291, Accuracy: 0.983
+        Validation:  Loss: 1.297, Accuracy: 0.978
+
+Epoch 8:
+        Training:    Loss: 1.289, Accuracy: 0.986
+        Validation:  Loss: 1.291, Accuracy: 0.984
+
+Epoch 9:
+        Training:    Loss: 1.292, Accuracy: 0.984
+        Validation:  Loss: 1.29, Accuracy: 0.984
+
+Epoch 10:
+        Training:    Loss: 1.289, Accuracy: 0.985
+        Validation:  Loss: 1.296, Accuracy: 0.981
+
+Epoch 11:
+        Training:    Loss: 1.289, Accuracy: 0.985
+        Validation:  Loss: 1.289, Accuracy: 0.987
+
+Epoch 12:
+        Training:    Loss: 1.287, Accuracy: 0.989
+        Validation:  Loss: 1.29, Accuracy: 0.984
+
+Epoch 13:
+        Training:    Loss: 1.286, Accuracy: 0.988
+        Validation:  Loss: 1.298, Accuracy: 0.975
+
+Epoch 14:
+        Training:    Loss: 1.286, Accuracy: 0.989
+        Validation:  Loss: 1.289, Accuracy: 0.984
+
+Epoch 15:
+        Training:    Loss: 1.286, Accuracy: 0.989
+        Validation:  Loss: 1.29, Accuracy: 0.984
+
+Epoch 16:
+        Training:    Loss: 1.286, Accuracy: 0.988
+        Validation:  Loss: 1.29, Accuracy: 0.984
+
+Epoch 17:
+        Training:    Loss: 1.285, Accuracy: 0.99
+        Validation:  Loss: 1.29, Accuracy: 0.984
+
+Epoch 18:
+        Training:    Loss: 1.285, Accuracy: 0.99
+        Validation:  Loss: 1.277, Accuracy: 1.0
+
+Epoch 19:
+        Training:    Loss: 1.282, Accuracy: 0.993
+        Validation:  Loss: 1.279, Accuracy: 0.994
+
+Epoch 20:
+        Training:    Loss: 1.281, Accuracy: 0.994
+        Validation:  Loss: 1.275, Accuracy: 1.0
+
+Epoch 21:
+        Training:    Loss: 1.279, Accuracy: 0.996
+        Validation:  Loss: 1.275, Accuracy: 1.0
+
+Epoch 22:
+        Training:    Loss: 1.277, Accuracy: 0.998
+        Validation:  Loss: 1.276, Accuracy: 1.0
+
+Epoch 23:
+        Training:    Loss: 1.28, Accuracy: 0.994
+        Validation:  Loss: 1.282, Accuracy: 0.987
+
+Epoch 24:
+        Training:    Loss: 1.279, Accuracy: 0.995
+        Validation:  Loss: 1.274, Accuracy: 1.0
+
+Epoch 25:
+        Training:    Loss: 1.278, Accuracy: 0.996
+        Validation:  Loss: 1.274, Accuracy: 1.0
+
+Epoch 26:
+        Training:    Loss: 1.276, Accuracy: 0.998
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+Epoch 27:
+        Training:    Loss: 1.277, Accuracy: 0.997
+        Validation:  Loss: 1.28, Accuracy: 0.994
+
+Epoch 28:
+        Training:    Loss: 1.275, Accuracy: 0.998
+        Validation:  Loss: 1.278, Accuracy: 0.997
+
+Epoch 29:
+        Training:    Loss: 1.277, Accuracy: 0.998
+        Validation:  Loss: 1.278, Accuracy: 0.997
+
+Epoch 30:
+        Training:    Loss: 1.275, Accuracy: 0.999
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+Epoch 31:
+        Training:    Loss: 1.274, Accuracy: 1.0
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+Epoch 32:
+        Training:    Loss: 1.275, Accuracy: 0.999
+        Validation:  Loss: 1.279, Accuracy: 0.994
+
+Epoch 33:
+        Training:    Loss: 1.279, Accuracy: 0.995
+        Validation:  Loss: 1.278, Accuracy: 0.997
+
+Epoch 34:
+        Training:    Loss: 1.276, Accuracy: 0.998
+        Validation:  Loss: 1.276, Accuracy: 0.997
+
+Epoch 35:
+        Training:    Loss: 1.275, Accuracy: 0.999
+        Validation:  Loss: 1.279, Accuracy: 0.994
+
+Epoch 36:
+        Training:    Loss: 1.275, Accuracy: 0.999
+        Validation:  Loss: 1.278, Accuracy: 0.997
+
+Epoch 37:
+        Training:    Loss: 1.274, Accuracy: 1.0
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+Epoch 38:
+        Training:    Loss: 1.274, Accuracy: 1.0
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+Epoch 39:
+        Training:    Loss: 1.275, Accuracy: 0.999
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+Epoch 40:
+        Training:    Loss: 1.275, Accuracy: 1.0
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+Epoch 41:
+        Training:    Loss: 1.276, Accuracy: 0.998
+        Validation:  Loss: 1.282, Accuracy: 0.994
+
+Epoch 42:
+        Training:    Loss: 1.276, Accuracy: 0.998
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+Epoch 43:
+        Training:    Loss: 1.278, Accuracy: 0.997
+        Validation:  Loss: 1.28, Accuracy: 0.994
+
+Epoch 44:
+        Training:    Loss: 1.276, Accuracy: 0.998
+        Validation:  Loss: 1.274, Accuracy: 1.0
+
+Epoch 45:
+        Training:    Loss: 1.276, Accuracy: 0.999
+        Validation:  Loss: 1.287, Accuracy: 0.987
+
+Epoch 46:
+        Training:    Loss: 1.275, Accuracy: 0.999
+        Validation:  Loss: 1.28, Accuracy: 0.994
+
+Epoch 47:
+        Training:    Loss: 1.276, Accuracy: 0.998
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+Epoch 48:
+        Training:    Loss: 1.275, Accuracy: 0.999
+        Validation:  Loss: 1.278, Accuracy: 0.997
+
+Epoch 49:
+        Training:    Loss: 1.275, Accuracy: 1.0
+        Validation:  Loss: 1.277, Accuracy: 0.997
+
+New model saved: './models/./models/0001_64_5_07_conv_net_model.ckpt
+
+Metrics saved in: './metrics/'
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/only_a_b_data.npy ./data/raw/only_a_b_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source
+libifcoremd.dll    00007FF9C3983B58  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FFAB6F65FA3  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFAB9057BD4  Unknown               Unknown  Unknown
+ntdll.dll          00007FFAB976CED1  Unknown               Unknown  Unknown
+QObject::~QObject: Timers cannot be stopped from another thread
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/only_a_b_data.npy ./data/raw/only_a_b_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+              precision    recall  f1-score   support
+
+         1.0       0.82      1.00      0.90       783
+         2.0       1.00      0.78      0.88       783
+
+    accuracy                           0.89      1566
+   macro avg       0.91      0.89      0.89      1566
+weighted avg       0.91      0.89      0.89      1566
+
+
+Predictions saved to: './results/' as .npy files.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/only_a_b_data.npy ./data/raw/only_a_b_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+              precision    recall  f1-score   support
+
+
+         1.0       0.82      1.00      0.90       783
+         2.0       1.00      0.78      0.88       783
+
+    accuracy                           0.89      1566
+   macro avg       0.91      0.89      0.89      1566
+weighted avg       0.91      0.89      0.89      1566
+
+
+Predictions saved to: './results/' as .npy files.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine
+C:/Softwares/Anaconda/python.exe: can't open file 'c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine': [Errno 2] No such file or directory
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/main.py" metrics
+----------------------------------------------------------------------------------------------------
+Cuda: Available
+PyTorch:  1.1.0
+
+              precision    recall  f1-score   support
+
+           1       0.99      0.99      0.99      8450
+           2       0.99      0.99      0.99      7250
+
+    accuracy                           0.99     15700
+   macro avg       0.99      0.99      0.99     15700
+weighted avg       0.99      0.99      0.99     15700
+
+PNGs saved to: './results/'.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/test_data.npy ./data/raw/test_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+C:\Softwares\Anaconda\lib\site-packages\sklearn\metrics\classification.py:1437: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+              precision    recall  f1-score   support
+
+           1       0.12      1.00      0.22         5
+           2       0.00      0.00      0.00         5
+           3       0.00      0.00      0.00         5
+           4       0.00      0.00      0.00         5
+           5       0.00      0.00      0.00         5
+           6       0.00      0.00      0.00         5
+           7       0.00      0.00      0.00         5
+           8       0.00      0.00      0.00         5
+
+    accuracy                           0.12        40
+   macro avg       0.02      0.12      0.03        40
+weighted avg       0.02      0.12      0.03        40
+
+
+Predictions saved to: './results/' as .npy files.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/main.py" metrics
+----------------------------------------------------------------------------------------------------
+Cuda: Available
+PyTorch:  1.1.0
+
+              precision    recall  f1-score   support
+
+           1       0.99      0.99      0.99      8450
+           2       0.99      0.99      0.99      7250
+
+    accuracy                           0.99     15700
+   macro avg       0.99      0.99      0.99     15700
+weighted avg       0.99      0.99      0.99     15700
+
+PNGs saved to: './results/'.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/test_data.npy ./data/raw/test_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00         5
+           2       1.00      1.00      1.00         5
+           3       1.00      1.00      1.00         5
+           4       1.00      1.00      1.00         5
+           5       1.00      1.00      1.00         5
+           6       1.00      0.80      0.89         5
+           7       0.83      1.00      0.91         5
+           8       1.00      1.00      1.00         5
+
+    accuracy                           0.97        40
+   macro avg       0.98      0.97      0.97        40
+weighted avg       0.98      0.97      0.97        40
+
+
+Predictions saved to: './results/' as .npy files.
+
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source
+libifcoremd.dll    00007FF9C3983B58  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FFAB6F65FA3  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFAB9057BD4  Unknown               Unknown  Unknown
+ntdll.dll          00007FFAB976CED1  Unknown               Unknown  Unknown
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/test_data.npy ./data/raw/test_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00         5
+           2       1.00      1.00      1.00         5
+           3       1.00      1.00      1.00         5
+           4       1.00      1.00      1.00         5
+           5       1.00      1.00      1.00         5
+           6       1.00      0.80      0.89         5
+           7       0.83      1.00      0.91         5
+           8       1.00      1.00      1.00         5
+
+    accuracy                           0.97        40
+   macro avg       0.98      0.97      0.97        40
+weighted avg       0.98      0.97      0.97        40
+
+
+Predictions saved to: './results/' as .npy files.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/main.py" metrics
+----------------------------------------------------------------------------------------------------
+Cuda: Available
+PyTorch:  1.1.0
+
+              precision    recall  f1-score   support
+
+           1       0.99      0.99      0.99      8450
+           2       0.99      0.99      0.99      7250
+
+    accuracy                           0.99     15700
+   macro avg       0.99      0.99      0.99     15700
+weighted avg       0.99      0.99      0.99     15700
+
+PNGs saved to: './results/'.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/train.py" ./data/raw/balanced_train_data.npy ./data/raw/balanced_train_labels.npy
+
+Using custom dataset for training.
+
+
+Training model:
+ # of epochs: 50, Learning rate: 0.001, Batch size: 64
+
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+
+Epoch 0:
+        Training:    Loss: 1.508, Accuracy: 0.81
+        Validation:  Loss: 1.352, Accuracy: 0.934
+
+Epoch 1:
+        Training:    Loss: 1.361, Accuracy: 0.927
+        Validation:  Loss: 1.354, Accuracy: 0.924
+
+Epoch 2:
+        Training:    Loss: 1.335, Accuracy: 0.947
+        Validation:  Loss: 1.321, Accuracy: 0.956
+
+Epoch 3:
+        Training:    Loss: 1.324, Accuracy: 0.957
+        Validation:  Loss: 1.323, Accuracy: 0.954
+
+Epoch 4:
+        Training:    Loss: 1.314, Accuracy: 0.965
+        Validation:  Loss: 1.318, Accuracy: 0.957
+
+Epoch 5:
+        Training:    Loss: 1.311, Accuracy: 0.969
+        Validation:  Loss: 1.312, Accuracy: 0.961
+
+Epoch 6:
+        Training:    Loss: 1.304, Accuracy: 0.972
+        Validation:  Loss: 1.312, Accuracy: 0.962
+
+Epoch 7:
+        Training:    Loss: 1.304, Accuracy: 0.972
+        Validation:  Loss: 1.302, Accuracy: 0.974
+
+Epoch 8:
+        Training:    Loss: 1.304, Accuracy: 0.972
+        Validation:  Loss: 1.308, Accuracy: 0.967
+
+Epoch 9:
+        Training:    Loss: 1.3, Accuracy: 0.977
+        Validation:  Loss: 1.303, Accuracy: 0.975
+
+Epoch 10:
+        Training:    Loss: 1.296, Accuracy: 0.982
+        Validation:  Loss: 1.301, Accuracy: 0.977
+
+Epoch 11:
+        Training:    Loss: 1.294, Accuracy: 0.982
+        Validation:  Loss: 1.301, Accuracy: 0.974
+
+Epoch 12:
+        Training:    Loss: 1.292, Accuracy: 0.985
+        Validation:  Loss: 1.295, Accuracy: 0.98
+
+Epoch 13:
+        Training:    Loss: 1.289, Accuracy: 0.987
+        Validation:  Loss: 1.296, Accuracy: 0.979
+
+Epoch 14:
+        Training:    Loss: 1.29, Accuracy: 0.985
+        Validation:  Loss: 1.301, Accuracy: 0.972
+
+Epoch 15:
+        Training:    Loss: 1.289, Accuracy: 0.986
+        Validation:  Loss: 1.298, Accuracy: 0.977
+
+Epoch 16:
+        Training:    Loss: 1.289, Accuracy: 0.986
+        Validation:  Loss: 1.294, Accuracy: 0.98
+
+Epoch 17:
+        Training:    Loss: 1.288, Accuracy: 0.989
+        Validation:  Loss: 1.299, Accuracy: 0.974
+
+Epoch 18:
+        Training:    Loss: 1.288, Accuracy: 0.989
+        Validation:  Loss: 1.3, Accuracy: 0.973
+
+Epoch 19:
+        Training:    Loss: 1.284, Accuracy: 0.991
+        Validation:  Loss: 1.296, Accuracy: 0.978
+
+Epoch 20:
+        Training:    Loss: 1.284, Accuracy: 0.991
+        Validation:  Loss: 1.292, Accuracy: 0.982
+
+Epoch 21:
+        Training:    Loss: 1.282, Accuracy: 0.994
+        Validation:  Loss: 1.293, Accuracy: 0.982
+
+Epoch 22:
+        Training:    Loss: 1.283, Accuracy: 0.992
+        Validation:  Loss: 1.293, Accuracy: 0.982
+
+Epoch 23:
+        Training:    Loss: 1.288, Accuracy: 0.987
+        Validation:  Loss: 1.299, Accuracy: 0.977
+
+Epoch 24:
+        Training:    Loss: 1.284, Accuracy: 0.991
+        Validation:  Loss: 1.292, Accuracy: 0.983
+
+Epoch 25:
+        Training:    Loss: 1.282, Accuracy: 0.992
+        Validation:  Loss: 1.292, Accuracy: 0.984
+
+Epoch 26:
+        Training:    Loss: 1.282, Accuracy: 0.993
+        Validation:  Loss: 1.292, Accuracy: 0.983
+
+Epoch 27:
+        Training:    Loss: 1.281, Accuracy: 0.994
+        Validation:  Loss: 1.291, Accuracy: 0.985
+
+Epoch 28:
+        Training:    Loss: 1.28, Accuracy: 0.995
+        Validation:  Loss: 1.291, Accuracy: 0.982
+
+Epoch 29:
+        Training:    Loss: 1.284, Accuracy: 0.99
+        Validation:  Loss: 1.291, Accuracy: 0.982
+
+Epoch 30:
+        Training:    Loss: 1.281, Accuracy: 0.994
+        Validation:  Loss: 1.291, Accuracy: 0.982
+
+Epoch 31:
+        Training:    Loss: 1.28, Accuracy: 0.994
+        Validation:  Loss: 1.292, Accuracy: 0.982
+
+Epoch 32:
+        Training:    Loss: 1.279, Accuracy: 0.995
+        Validation:  Loss: 1.293, Accuracy: 0.981
+
+Epoch 33:
+        Training:    Loss: 1.282, Accuracy: 0.993
+        Validation:  Loss: 1.296, Accuracy: 0.979
+
+Epoch 34:
+        Training:    Loss: 1.28, Accuracy: 0.995
+        Validation:  Loss: 1.291, Accuracy: 0.981
+
+Epoch 35:
+        Training:    Loss: 1.28, Accuracy: 0.995
+        Validation:  Loss: 1.289, Accuracy: 0.986
+
+Epoch 36:
+        Training:    Loss: 1.28, Accuracy: 0.995
+        Validation:  Loss: 1.291, Accuracy: 0.985
+
+Epoch 37:
+        Training:    Loss: 1.283, Accuracy: 0.992
+        Validation:  Loss: 1.292, Accuracy: 0.982
+
+Epoch 38:
+        Training:    Loss: 1.281, Accuracy: 0.994
+        Validation:  Loss: 1.291, Accuracy: 0.983
+
+Epoch 39:
+        Training:    Loss: 1.281, Accuracy: 0.994
+        Validation:  Loss: 1.289, Accuracy: 0.986
+
+Epoch 40:
+        Training:    Loss: 1.28, Accuracy: 0.995
+        Validation:  Loss: 1.295, Accuracy: 0.98
+
+Epoch 41:
+        Training:    Loss: 1.281, Accuracy: 0.995
+        Validation:  Loss: 1.289, Accuracy: 0.985
+
+Epoch 42:
+        Training:    Loss: 1.281, Accuracy: 0.995
+        Validation:  Loss: 1.29, Accuracy: 0.986
+
+Epoch 43:
+        Training:    Loss: 1.279, Accuracy: 0.995
+        Validation:  Loss: 1.289, Accuracy: 0.985
+
+Epoch 44:
+        Training:    Loss: 1.278, Accuracy: 0.997
+        Validation:  Loss: 1.293, Accuracy: 0.981
+
+Epoch 45:
+        Training:    Loss: 1.28, Accuracy: 0.994
+        Validation:  Loss: 1.291, Accuracy: 0.985
+
+Epoch 46:
+        Training:    Loss: 1.278, Accuracy: 0.997
+        Validation:  Loss: 1.288, Accuracy: 0.986
+
+Epoch 47:
+        Training:    Loss: 1.28, Accuracy: 0.995
+        Validation:  Loss: 1.289, Accuracy: 0.985
+
+Epoch 48:
+        Training:    Loss: 1.279, Accuracy: 0.995
+        Validation:  Loss: 1.288, Accuracy: 0.986
+
+Epoch 49:
+        Training:    Loss: 1.28, Accuracy: 0.994
+        Validation:  Loss: 1.291, Accuracy: 0.982
+
+New model saved: './models/./models/0001_64_5_07_conv_net_model.ckpt
+
+Metrics saved in: './metrics/'
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/test_data.npy ./data/raw/test_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00         5
+           2       1.00      1.00      1.00         5
+           3       1.00      1.00      1.00         5
+           4       1.00      1.00      1.00         5
+           5       1.00      1.00      1.00         5
+           6       1.00      0.60      0.75         5
+           7       0.71      1.00      0.83         5
+           8       1.00      1.00      1.00         5
+
+    accuracy                           0.95        40
+   macro avg       0.96      0.95      0.95        40
+weighted avg       0.96      0.95      0.95        40
+
+
+Predictions saved to: './results/' as .npy files.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/train_data.npy ./data/raw/train_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+              precision    recall  f1-score   support
+
+         1.0       0.99      1.00      1.00       784
+         2.0       0.99      1.00      0.99       771
+         3.0       0.99      1.00      1.00       775
+         4.0       0.99      1.00      1.00       769
+         5.0       1.00      0.99      0.99       772
+         6.0       0.99      0.99      0.99       765
+         7.0       0.99      0.99      0.99       753
+         8.0       0.99      0.99      0.99       774
+
+    accuracy                           0.99      6163
+   macro avg       0.99      0.99      0.99      6163
+weighted avg       0.99      0.99      0.99      6163
+
+
+Predictions saved to: './results/' as .npy files.
+
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/test_data.npy ./data/raw/test_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source
+libifcoremd.dll    00007FF9C3983B58  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FFAB6F65FA3  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFAB9057BD4  Unknown               Unknown  Unknown
+ntdll.dll          00007FFAB976CED1  Unknown               Unknown  Unknown
+QObject::~QObject: Timers cannot be stopped from another thread
+
+(base) C:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code>C:/Softwares/Anaconda/python.exe "c:/Users/Piyush/OneDrive - University of Florida/Academics/Coursework/PhD/Semesters/Semester 1/Fundamentals of Machine Learning/Project/3. Code/test.py" ./data/raw/test_data.npy ./data/raw/test_labels.npy
+c:\Users\Piyush\OneDrive - University of Florida\Academics\Coursework\PhD\Semesters\Semester 1\Fundamentals of Machine Learning\Project\3. Code\modules\model.py:65: 
+UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return _.F.softmax(out)
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00         5
+           2       1.00      1.00      1.00         5
+           3       1.00      1.00      1.00         5
+           4       1.00      1.00      1.00         5
+           5       1.00      1.00      1.00         5
+           6       1.00      0.60      0.75         5
+           7       0.71      1.00      0.83         5
+           8       1.00      1.00      1.00         5
+
+    accuracy                           0.95        40
+   macro avg       0.96      0.95      0.95        40
+weighted avg       0.96      0.95      0.95        40
+
+
+Predictions saved to: './results/' as .npy files.

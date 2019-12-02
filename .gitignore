@@ -1,0 +1,6 @@
+runs/
+models/
+data/
+modules/__pycache__/
+
+.vscode

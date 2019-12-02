@@ -1,0 +1,875 @@
+----------------------------------------------------------------------------------------------------
+Cuda: Available
+PyTorch:  1.1.0
+
+Hyperparameters:  0.01 32 3 0.5
+Training model
+Epoch: 0, Training loss: 179.579, Validation loss: 43.429
+Epoch: 1, Training loss: 159.898, Validation loss: 36.726
+Epoch: 2, Training loss: 147.094, Validation loss: 36.92
+Epoch: 3, Training loss: 146.435, Validation loss: 36.595
+Epoch: 4, Training loss: 145.192, Validation loss: 35.631
+Epoch: 5, Training loss: 144.234, Validation loss: 35.101
+Epoch: 6, Training loss: 140.275, Validation loss: 34.72
+Epoch: 7, Training loss: 137.759, Validation loss: 34.898
+Epoch: 8, Training loss: 138.347, Validation loss: 34.791
+Epoch: 9, Training loss: 138.48, Validation loss: 35.525
+Epoch: 10, Training loss: 138.65, Validation loss: 35.329
+Epoch: 11, Training loss: 137.648, Validation loss: 35.222
+Epoch: 12, Training loss: 135.596, Validation loss: 35.412
+Epoch: 13, Training loss: 138.302, Validation loss: 35.203
+Epoch: 14, Training loss: 139.445, Validation loss: 35.371
+
+Hyperparameters:  0.01 32 3 0.7
+Training model
+Epoch: 0, Training loss: 296.12, Validation loss: 72.052
+Epoch: 1, Training loss: 289.918, Validation loss: 71.648
+Epoch: 2, Training loss: 290.638, Validation loss: 71.867
+Epoch: 3, Training loss: 289.805, Validation loss: 71.596
+Epoch: 4, Training loss: 287.649, Validation loss: 72.148
+Epoch: 5, Training loss: 289.206, Validation loss: 71.422
+Epoch: 6, Training loss: 287.593, Validation loss: 71.239
+Epoch: 7, Training loss: 288.074, Validation loss: 71.477
+Epoch: 8, Training loss: 288.363, Validation loss: 71.032
+Epoch: 9, Training loss: 287.384, Validation loss: 71.258
+Epoch: 10, Training loss: 285.466, Validation loss: 71.027
+Epoch: 11, Training loss: 286.37, Validation loss: 71.318
+Epoch: 12, Training loss: 287.318, Validation loss: 70.949
+Epoch: 13, Training loss: 286.991, Validation loss: 71.221
+Epoch: 14, Training loss: 286.734, Validation loss: 71.269
+
+Hyperparameters:  0.01 32 5 0.5
+Training model
+Epoch: 0, Training loss: 153.116, Validation loss: 31.609
+Epoch: 1, Training loss: 122.646, Validation loss: 28.784
+Epoch: 2, Training loss: 113.008, Validation loss: 31.219
+Epoch: 3, Training loss: 105.59, Validation loss: 28.507
+Epoch: 4, Training loss: 105.784, Validation loss: 27.322
+Epoch: 5, Training loss: 99.809, Validation loss: 26.769
+Epoch: 6, Training loss: 103.962, Validation loss: 26.974
+Epoch: 7, Training loss: 101.517, Validation loss: 27.585
+Epoch: 8, Training loss: 100.359, Validation loss: 27.834
+Epoch: 9, Training loss: 105.344, Validation loss: 28.834
+Epoch: 10, Training loss: 102.353, Validation loss: 27.895
+Epoch: 11, Training loss: 98.981, Validation loss: 27.498
+Epoch: 12, Training loss: 95.271, Validation loss: 28.7
+Epoch: 13, Training loss: 96.9, Validation loss: 28.535
+Epoch: 14, Training loss: 100.995, Validation loss: 27.839
+
+Hyperparameters:  0.01 32 5 0.7
+Training model
+Epoch: 0, Training loss: 249.311, Validation loss: 54.881
+Epoch: 1, Training loss: 228.78, Validation loss: 53.013
+Epoch: 2, Training loss: 222.827, Validation loss: 53.0
+Epoch: 3, Training loss: 221.807, Validation loss: 53.074
+Epoch: 4, Training loss: 216.192, Validation loss: 52.753
+Epoch: 5, Training loss: 217.362, Validation loss: 52.841
+Epoch: 6, Training loss: 215.196, Validation loss: 52.324
+Epoch: 7, Training loss: 215.103, Validation loss: 52.607
+Epoch: 8, Training loss: 215.652, Validation loss: 52.774
+Epoch: 9, Training loss: 214.604, Validation loss: 52.791
+Epoch: 10, Training loss: 218.586, Validation loss: 52.649
+Epoch: 11, Training loss: 213.836, Validation loss: 52.292
+Epoch: 12, Training loss: 214.565, Validation loss: 52.107
+Epoch: 13, Training loss: 216.436, Validation loss: 53.157
+Epoch: 14, Training loss: 215.227, Validation loss: 52.263
+
+Hyperparameters:  0.01 64 3 0.5
+Training model
+Epoch: 0, Training loss: 59.603, Validation loss: 10.37
+Epoch: 1, Training loss: 39.314, Validation loss: 8.983
+Epoch: 2, Training loss: 33.83, Validation loss: 8.391
+Epoch: 3, Training loss: 36.304, Validation loss: 8.995
+Epoch: 4, Training loss: 37.044, Validation loss: 8.467
+Epoch: 5, Training loss: 31.593, Validation loss: 8.102
+Epoch: 6, Training loss: 31.433, Validation loss: 8.329
+Epoch: 7, Training loss: 32.041, Validation loss: 8.349
+Epoch: 8, Training loss: 34.504, Validation loss: 7.984
+Epoch: 9, Training loss: 32.511, Validation loss: 7.897
+Epoch: 10, Training loss: 30.564, Validation loss: 8.53
+Epoch: 11, Training loss: 27.581, Validation loss: 7.883
+Epoch: 12, Training loss: 28.421, Validation loss: 7.98
+Epoch: 13, Training loss: 33.844, Validation loss: 8.124
+Epoch: 14, Training loss: 30.831, Validation loss: 7.951
+
+Hyperparameters:  0.01 64 3 0.7
+Training model
+Epoch: 0, Training loss: 82.437, Validation loss: 15.808
+Epoch: 1, Training loss: 64.698, Validation loss: 12.749
+Epoch: 2, Training loss: 56.776, Validation loss: 12.399
+Epoch: 3, Training loss: 54.503, Validation loss: 12.096
+Epoch: 4, Training loss: 52.981, Validation loss: 11.997
+Epoch: 5, Training loss: 53.191, Validation loss: 11.975
+Epoch: 6, Training loss: 51.89, Validation loss: 12.372
+Epoch: 7, Training loss: 51.269, Validation loss: 11.663
+Epoch: 8, Training loss: 51.218, Validation loss: 11.567
+Epoch: 9, Training loss: 54.553, Validation loss: 12.342
+Epoch: 10, Training loss: 49.941, Validation loss: 11.958
+Epoch: 11, Training loss: 50.867, Validation loss: 11.593
+Epoch: 12, Training loss: 50.168, Validation loss: 11.658
+Epoch: 13, Training loss: 48.594, Validation loss: 11.592
+Epoch: 14, Training loss: 49.668, Validation loss: 12.0
+
+Hyperparameters:  0.01 64 5 0.5
+Training model
+Epoch: 0, Training loss: 101.202, Validation loss: 22.46
+Epoch: 1, Training loss: 93.251, Validation loss: 22.704
+Epoch: 2, Training loss: 91.734, Validation loss: 22.026
+Epoch: 3, Training loss: 90.717, Validation loss: 22.648
+Epoch: 4, Training loss: 90.912, Validation loss: 22.229
+Epoch: 5, Training loss: 92.045, Validation loss: 22.365
+Epoch: 6, Training loss: 89.735, Validation loss: 21.73
+Epoch: 7, Training loss: 88.334, Validation loss: 21.545
+Epoch: 8, Training loss: 88.365, Validation loss: 21.755
+Epoch: 9, Training loss: 87.618, Validation loss: 21.461
+Epoch: 10, Training loss: 85.91, Validation loss: 22.376
+Epoch: 11, Training loss: 85.356, Validation loss: 21.683
+Epoch: 12, Training loss: 85.392, Validation loss: 21.819
+Epoch: 13, Training loss: 86.534, Validation loss: 22.096
+Epoch: 14, Training loss: 86.759, Validation loss: 21.773
+
+Hyperparameters:  0.01 64 5 0.7
+Training model
+Epoch: 0, Training loss: 83.142, Validation loss: 15.987
+Epoch: 1, Training loss: 64.908, Validation loss: 14.281
+Epoch: 2, Training loss: 58.5, Validation loss: 12.634
+Epoch: 3, Training loss: 53.961, Validation loss: 14.17
+Epoch: 4, Training loss: 55.61, Validation loss: 12.492
+Epoch: 5, Training loss: 51.728, Validation loss: 12.499
+Epoch: 6, Training loss: 51.272, Validation loss: 12.251
+Epoch: 7, Training loss: 50.755, Validation loss: 12.396
+Epoch: 8, Training loss: 51.859, Validation loss: 11.975
+Epoch: 9, Training loss: 49.774, Validation loss: 12.449
+Epoch: 10, Training loss: 47.94, Validation loss: 11.964
+Epoch: 11, Training loss: 49.193, Validation loss: 12.076
+Epoch: 12, Training loss: 49.094, Validation loss: 12.036
+Epoch: 13, Training loss: 50.183, Validation loss: 12.051
+Epoch: 14, Training loss: 48.942, Validation loss: 11.879
+
+Hyperparameters:  0.01 128 3 0.5
+Training model
+Epoch: 0, Training loss: 37.376, Validation loss: 8.293
+Epoch: 1, Training loss: 27.436, Validation loss: 7.152
+Epoch: 2, Training loss: 25.601, Validation loss: 6.963
+Epoch: 3, Training loss: 24.779, Validation loss: 7.137
+Epoch: 4, Training loss: 24.312, Validation loss: 6.896
+Epoch: 5, Training loss: 24.048, Validation loss: 7.098
+Epoch: 6, Training loss: 24.007, Validation loss: 6.57
+Epoch: 7, Training loss: 23.554, Validation loss: 6.531
+Epoch: 8, Training loss: 23.5, Validation loss: 6.886
+Epoch: 9, Training loss: 22.994, Validation loss: 6.643
+Epoch: 10, Training loss: 23.033, Validation loss: 6.559
+Epoch: 11, Training loss: 23.199, Validation loss: 6.721
+Epoch: 12, Training loss: 22.657, Validation loss: 6.672
+Epoch: 13, Training loss: 22.378, Validation loss: 6.892
+Epoch: 14, Training loss: 22.599, Validation loss: 6.603
+
+Hyperparameters:  0.01 128 3 0.7
+Training model
+Epoch: 0, Training loss: 25.841, Validation loss: 3.794
+Epoch: 1, Training loss: 11.269, Validation loss: 1.851
+Epoch: 2, Training loss: 8.174, Validation loss: 1.948
+Epoch: 3, Training loss: 7.284, Validation loss: 1.434
+Epoch: 4, Training loss: 5.717, Validation loss: 1.322
+Epoch: 5, Training loss: 5.335, Validation loss: 1.177
+Epoch: 6, Training loss: 4.49, Validation loss: 1.196
+Epoch: 7, Training loss: 4.174, Validation loss: 1.159
+Epoch: 8, Training loss: 3.857, Validation loss: 1.166
+Epoch: 9, Training loss: 3.439, Validation loss: 1.237
+Epoch: 10, Training loss: 3.379, Validation loss: 1.316
+Epoch: 11, Training loss: 2.753, Validation loss: 1.262
+Epoch: 12, Training loss: 2.798, Validation loss: 1.217
+Epoch: 13, Training loss: 2.55, Validation loss: 1.114
+Epoch: 14, Training loss: 2.616, Validation loss: 1.015
+
+Hyperparameters:  0.01 128 5 0.5
+Training model
+Epoch: 0, Training loss: 30.664, Validation loss: 5.109
+Epoch: 1, Training loss: 18.854, Validation loss: 4.164
+Epoch: 2, Training loss: 16.781, Validation loss: 4.399
+Epoch: 3, Training loss: 15.586, Validation loss: 3.915
+Epoch: 4, Training loss: 14.973, Validation loss: 3.841
+Epoch: 5, Training loss: 14.621, Validation loss: 3.787
+Epoch: 6, Training loss: 14.157, Validation loss: 3.737
+Epoch: 7, Training loss: 13.619, Validation loss: 3.796
+Epoch: 8, Training loss: 13.491, Validation loss: 3.754
+Epoch: 9, Training loss: 12.907, Validation loss: 3.718
+Epoch: 10, Training loss: 12.731, Validation loss: 3.695
+Epoch: 11, Training loss: 12.92, Validation loss: 3.693
+Epoch: 12, Training loss: 13.504, Validation loss: 3.77
+Epoch: 13, Training loss: 13.332, Validation loss: 3.586
+Epoch: 14, Training loss: 12.17, Validation loss: 3.804
+
+Hyperparameters:  0.01 128 5 0.7
+Training model
+Epoch: 0, Training loss: 33.714, Validation loss: 6.563
+Epoch: 1, Training loss: 21.01, Validation loss: 4.221
+Epoch: 2, Training loss: 18.318, Validation loss: 4.251
+Epoch: 3, Training loss: 16.475, Validation loss: 3.792
+Epoch: 4, Training loss: 15.736, Validation loss: 3.801
+Epoch: 5, Training loss: 15.098, Validation loss: 3.739
+Epoch: 6, Training loss: 14.857, Validation loss: 3.695
+Epoch: 7, Training loss: 14.418, Validation loss: 3.702
+Epoch: 8, Training loss: 14.032, Validation loss: 3.528
+Epoch: 9, Training loss: 13.857, Validation loss: 3.522
+Epoch: 10, Training loss: 13.708, Validation loss: 3.632
+Epoch: 11, Training loss: 13.75, Validation loss: 3.713
+Epoch: 12, Training loss: 13.244, Validation loss: 3.543
+Epoch: 13, Training loss: 12.962, Validation loss: 3.751
+Epoch: 14, Training loss: 12.824, Validation loss: 3.39
+
+Hyperparameters:  0.001 32 3 0.5
+Training model
+Epoch: 0, Training loss: 140.914, Validation loss: 29.541
+Epoch: 1, Training loss: 109.591, Validation loss: 28.177
+Epoch: 2, Training loss: 103.063, Validation loss: 27.299
+Epoch: 3, Training loss: 97.41, Validation loss: 26.917
+Epoch: 4, Training loss: 94.768, Validation loss: 26.724
+Epoch: 5, Training loss: 95.299, Validation loss: 27.073
+Epoch: 6, Training loss: 92.447, Validation loss: 26.461
+Epoch: 7, Training loss: 88.987, Validation loss: 26.426
+Epoch: 8, Training loss: 88.291, Validation loss: 26.277
+Epoch: 9, Training loss: 89.013, Validation loss: 26.057
+Epoch: 10, Training loss: 86.968, Validation loss: 26.19
+Epoch: 11, Training loss: 84.812, Validation loss: 26.429
+Epoch: 12, Training loss: 85.743, Validation loss: 26.051
+Epoch: 13, Training loss: 85.575, Validation loss: 26.824
+Epoch: 14, Training loss: 85.337, Validation loss: 26.115
+
+Hyperparameters:  0.001 32 3 0.7
+Training model
+Epoch: 0, Training loss: 88.427, Validation loss: 9.969
+Epoch: 1, Training loss: 45.834, Validation loss: 7.336
+Epoch: 2, Training loss: 31.421, Validation loss: 6.501
+Epoch: 3, Training loss: 27.993, Validation loss: 5.544
+Epoch: 4, Training loss: 25.048, Validation loss: 5.326
+Epoch: 5, Training loss: 20.299, Validation loss: 5.263
+Epoch: 6, Training loss: 16.981, Validation loss: 4.751
+Epoch: 7, Training loss: 15.562, Validation loss: 4.671
+Epoch: 8, Training loss: 14.961, Validation loss: 4.943
+Epoch: 9, Training loss: 16.951, Validation loss: 4.772
+Epoch: 10, Training loss: 14.895, Validation loss: 4.596
+Epoch: 11, Training loss: 12.29, Validation loss: 4.611
+Epoch: 12, Training loss: 12.0, Validation loss: 4.73
+Epoch: 13, Training loss: 9.053, Validation loss: 4.55
+Epoch: 14, Training loss: 8.741, Validation loss: 4.405
+
+Hyperparameters:  0.001 32 5 0.5
+Training model
+Epoch: 0, Training loss: 71.636, Validation loss: 7.958
+Epoch: 1, Training loss: 28.815, Validation loss: 6.728
+Epoch: 2, Training loss: 20.311, Validation loss: 5.004
+Epoch: 3, Training loss: 16.116, Validation loss: 5.014
+Epoch: 4, Training loss: 12.074, Validation loss: 4.353
+Epoch: 5, Training loss: 10.235, Validation loss: 4.431
+Epoch: 6, Training loss: 7.191, Validation loss: 4.544
+Epoch: 7, Training loss: 6.952, Validation loss: 4.356
+Epoch: 8, Training loss: 6.775, Validation loss: 4.864
+Epoch: 9, Training loss: 5.109, Validation loss: 4.448
+Epoch: 10, Training loss: 9.178, Validation loss: 4.016
+Epoch: 11, Training loss: 5.075, Validation loss: 3.89
+Epoch: 12, Training loss: 5.67, Validation loss: 4.247
+Epoch: 13, Training loss: 3.976, Validation loss: 4.482
+Epoch: 14, Training loss: 3.404, Validation loss: 4.093
+
+Hyperparameters:  0.001 32 5 0.7
+Training model
+Epoch: 0, Training loss: 82.408, Validation loss: 8.777
+Epoch: 1, Training loss: 38.386, Validation loss: 6.377
+Epoch: 2, Training loss: 26.737, Validation loss: 5.344
+Epoch: 3, Training loss: 25.986, Validation loss: 5.369
+Epoch: 4, Training loss: 22.296, Validation loss: 4.454
+Epoch: 5, Training loss: 18.709, Validation loss: 4.825
+Epoch: 6, Training loss: 16.972, Validation loss: 4.044
+Epoch: 7, Training loss: 13.403, Validation loss: 3.669
+Epoch: 8, Training loss: 11.892, Validation loss: 3.647
+Epoch: 9, Training loss: 12.124, Validation loss: 3.761
+Epoch: 10, Training loss: 14.131, Validation loss: 3.903
+Epoch: 11, Training loss: 11.964, Validation loss: 3.555
+Epoch: 12, Training loss: 9.442, Validation loss: 3.957
+Epoch: 13, Training loss: 7.555, Validation loss: 3.726
+Epoch: 14, Training loss: 7.118, Validation loss: 3.641
+
+Hyperparameters:  0.001 64 3 0.5
+Training model
+Epoch: 0, Training loss: 40.984, Validation loss: 4.966
+Epoch: 1, Training loss: 16.4, Validation loss: 3.244
+Epoch: 2, Training loss: 10.362, Validation loss: 3.134
+Epoch: 3, Training loss: 8.552, Validation loss: 2.645
+Epoch: 4, Training loss: 5.785, Validation loss: 2.814
+Epoch: 5, Training loss: 8.59, Validation loss: 2.764
+Epoch: 6, Training loss: 5.108, Validation loss: 2.458
+Epoch: 7, Training loss: 4.749, Validation loss: 2.508
+Epoch: 8, Training loss: 7.254, Validation loss: 2.517
+Epoch: 9, Training loss: 2.339, Validation loss: 2.502
+Epoch: 10, Training loss: 4.406, Validation loss: 2.677
+Epoch: 11, Training loss: 2.313, Validation loss: 2.67
+Epoch: 12, Training loss: 4.914, Validation loss: 2.598
+Epoch: 13, Training loss: 3.433, Validation loss: 2.505
+Epoch: 14, Training loss: 2.329, Validation loss: 2.424
+
+Hyperparameters:  0.001 64 3 0.7
+Training model
+Epoch: 0, Training loss: 51.006, Validation loss: 5.76
+Epoch: 1, Training loss: 21.335, Validation loss: 4.261
+Epoch: 2, Training loss: 16.258, Validation loss: 3.573
+Epoch: 3, Training loss: 12.481, Validation loss: 3.0
+Epoch: 4, Training loss: 9.928, Validation loss: 2.868
+Epoch: 5, Training loss: 8.624, Validation loss: 2.708
+Epoch: 6, Training loss: 7.336, Validation loss: 2.644
+Epoch: 7, Training loss: 8.087, Validation loss: 2.631
+Epoch: 8, Training loss: 11.092, Validation loss: 2.499
+Epoch: 9, Training loss: 9.216, Validation loss: 2.516
+Epoch: 10, Training loss: 9.679, Validation loss: 2.5
+Epoch: 11, Training loss: 5.611, Validation loss: 2.414
+Epoch: 12, Training loss: 4.946, Validation loss: 2.396
+Epoch: 13, Training loss: 7.272, Validation loss: 2.364
+Epoch: 14, Training loss: 5.478, Validation loss: 2.448
+
+Hyperparameters:  0.001 64 5 0.5
+Training model
+Epoch: 0, Training loss: 55.736, Validation loss: 9.258
+Epoch: 1, Training loss: 34.444, Validation loss: 8.029
+Epoch: 2, Training loss: 29.764, Validation loss: 7.475
+Epoch: 3, Training loss: 28.854, Validation loss: 7.753
+Epoch: 4, Training loss: 28.096, Validation loss: 7.311
+Epoch: 5, Training loss: 26.869, Validation loss: 7.039
+Epoch: 6, Training loss: 24.921, Validation loss: 6.884
+Epoch: 7, Training loss: 24.102, Validation loss: 6.892
+Epoch: 8, Training loss: 24.611, Validation loss: 6.858
+Epoch: 9, Training loss: 23.937, Validation loss: 7.179
+Epoch: 10, Training loss: 24.041, Validation loss: 6.913
+Epoch: 11, Training loss: 22.71, Validation loss: 6.928
+Epoch: 12, Training loss: 22.808, Validation loss: 6.924
+Epoch: 13, Training loss: 24.146, Validation loss: 6.803
+Epoch: 14, Training loss: 22.862, Validation loss: 6.934
+
+Hyperparameters:  0.001 64 5 0.7
+Training model
+Epoch: 0, Training loss: 48.099, Validation loss: 5.961
+Epoch: 1, Training loss: 21.429, Validation loss: 4.405
+Epoch: 2, Training loss: 14.995, Validation loss: 3.418
+Epoch: 3, Training loss: 13.142, Validation loss: 2.898
+Epoch: 4, Training loss: 10.707, Validation loss: 2.551
+Epoch: 5, Training loss: 8.788, Validation loss: 2.431
+Epoch: 6, Training loss: 7.533, Validation loss: 2.389
+Epoch: 7, Training loss: 5.917, Validation loss: 2.184
+Epoch: 8, Training loss: 6.797, Validation loss: 2.171
+Epoch: 9, Training loss: 5.17, Validation loss: 2.021
+Epoch: 10, Training loss: 5.036, Validation loss: 2.115
+Epoch: 11, Training loss: 7.413, Validation loss: 2.234
+Epoch: 12, Training loss: 5.818, Validation loss: 2.147
+Epoch: 13, Training loss: 4.96, Validation loss: 2.289
+Epoch: 14, Training loss: 5.029, Validation loss: 2.164
+
+Hyperparameters:  0.001 128 3 0.5
+Training model
+Epoch: 0, Training loss: 30.917, Validation loss: 5.093
+Epoch: 1, Training loss: 18.068, Validation loss: 4.225
+Epoch: 2, Training loss: 15.329, Validation loss: 3.868
+Epoch: 3, Training loss: 13.93, Validation loss: 3.791
+Epoch: 4, Training loss: 13.411, Validation loss: 3.735
+Epoch: 5, Training loss: 12.723, Validation loss: 3.695
+Epoch: 6, Training loss: 12.265, Validation loss: 3.691
+Epoch: 7, Training loss: 11.877, Validation loss: 3.735
+Epoch: 8, Training loss: 11.792, Validation loss: 3.647
+Epoch: 9, Training loss: 11.71, Validation loss: 3.7
+Epoch: 10, Training loss: 11.457, Validation loss: 3.741
+Epoch: 11, Training loss: 11.381, Validation loss: 3.737
+Epoch: 12, Training loss: 11.252, Validation loss: 3.677
+Epoch: 13, Training loss: 11.342, Validation loss: 3.824
+Epoch: 14, Training loss: 11.319, Validation loss: 3.721
+
+Hyperparameters:  0.001 128 3 0.7
+Training model
+Epoch: 0, Training loss: 25.942, Validation loss: 3.176
+Epoch: 1, Training loss: 10.656, Validation loss: 2.033
+Epoch: 2, Training loss: 7.867, Validation loss: 1.775
+Epoch: 3, Training loss: 6.277, Validation loss: 1.478
+Epoch: 4, Training loss: 4.978, Validation loss: 1.348
+Epoch: 5, Training loss: 4.411, Validation loss: 1.303
+Epoch: 6, Training loss: 3.963, Validation loss: 1.245
+Epoch: 7, Training loss: 3.244, Validation loss: 1.258
+Epoch: 8, Training loss: 2.908, Validation loss: 1.26
+Epoch: 9, Training loss: 2.735, Validation loss: 1.239
+Epoch: 10, Training loss: 2.26, Validation loss: 1.254
+Epoch: 11, Training loss: 2.19, Validation loss: 1.24
+Epoch: 12, Training loss: 1.832, Validation loss: 1.186
+Epoch: 13, Training loss: 1.619, Validation loss: 1.176
+Epoch: 14, Training loss: 1.537, Validation loss: 1.193
+
+Hyperparameters:  0.001 128 5 0.5
+Training model
+Epoch: 0, Training loss: 21.88, Validation loss: 2.659
+Epoch: 1, Training loss: 7.861, Validation loss: 1.674
+Epoch: 2, Training loss: 5.14, Validation loss: 1.34
+Epoch: 3, Training loss: 3.75, Validation loss: 1.208
+Epoch: 4, Training loss: 2.708, Validation loss: 1.29
+Epoch: 5, Training loss: 1.896, Validation loss: 1.249
+Epoch: 6, Training loss: 1.643, Validation loss: 1.223
+Epoch: 7, Training loss: 1.39, Validation loss: 1.067
+Epoch: 8, Training loss: 1.193, Validation loss: 1.097
+Epoch: 9, Training loss: 0.968, Validation loss: 1.167
+Epoch: 10, Training loss: 0.752, Validation loss: 1.203
+Epoch: 11, Training loss: 0.81, Validation loss: 1.096
+Epoch: 12, Training loss: 0.648, Validation loss: 1.203
+Epoch: 13, Training loss: 0.603, Validation loss: 1.055
+Epoch: 14, Training loss: 0.57, Validation loss: 1.155
+
+Hyperparameters:  0.001 128 5 0.7
+Training model
+Epoch: 0, Training loss: 25.591, Validation loss: 3.023
+Epoch: 1, Training loss: 9.939, Validation loss: 1.896
+Epoch: 2, Training loss: 6.85, Validation loss: 1.511
+Epoch: 3, Training loss: 5.39, Validation loss: 1.332
+Epoch: 4, Training loss: 4.457, Validation loss: 1.272
+Epoch: 5, Training loss: 3.708, Validation loss: 1.232
+Epoch: 6, Training loss: 3.169, Validation loss: 1.198
+Epoch: 7, Training loss: 2.828, Validation loss: 1.26
+Epoch: 8, Training loss: 2.467, Validation loss: 1.139
+Epoch: 9, Training loss: 2.081, Validation loss: 1.159
+Epoch: 10, Training loss: 2.062, Validation loss: 1.208
+Epoch: 11, Training loss: 1.716, Validation loss: 1.143
+Epoch: 12, Training loss: 1.458, Validation loss: 1.082
+Epoch: 13, Training loss: 1.551, Validation loss: 1.011
+Epoch: 14, Training loss: 1.175, Validation loss: 1.048
+
+Hyperparameters:  0.0001 32 3 0.5
+Training model
+Epoch: 0, Training loss: 123.014, Validation loss: 17.158
+Epoch: 1, Training loss: 57.476, Validation loss: 11.17
+Epoch: 2, Training loss: 40.33, Validation loss: 8.868
+Epoch: 3, Training loss: 31.595, Validation loss: 7.941
+Epoch: 4, Training loss: 25.817, Validation loss: 6.792
+Epoch: 5, Training loss: 21.559, Validation loss: 6.697
+Epoch: 6, Training loss: 19.26, Validation loss: 6.0
+Epoch: 7, Training loss: 15.779, Validation loss: 5.699
+Epoch: 8, Training loss: 15.69, Validation loss: 5.639
+Epoch: 9, Training loss: 11.751, Validation loss: 5.447
+Epoch: 10, Training loss: 10.961, Validation loss: 5.457
+Epoch: 11, Training loss: 9.265, Validation loss: 5.337
+Epoch: 12, Training loss: 7.443, Validation loss: 5.624
+Epoch: 13, Training loss: 6.911, Validation loss: 5.276
+Epoch: 14, Training loss: 6.636, Validation loss: 5.28
+
+Hyperparameters:  0.0001 32 3 0.7
+Training model
+Epoch: 0, Training loss: 150.805, Validation loss: 20.614
+Epoch: 1, Training loss: 77.136, Validation loss: 14.156
+Epoch: 2, Training loss: 55.715, Validation loss: 11.187
+Epoch: 3, Training loss: 45.37, Validation loss: 9.322
+Epoch: 4, Training loss: 39.786, Validation loss: 7.965
+Epoch: 5, Training loss: 33.707, Validation loss: 7.495
+Epoch: 6, Training loss: 28.783, Validation loss: 6.939
+Epoch: 7, Training loss: 27.294, Validation loss: 6.463
+Epoch: 8, Training loss: 27.194, Validation loss: 6.531
+Epoch: 9, Training loss: 24.696, Validation loss: 6.194
+Epoch: 10, Training loss: 22.077, Validation loss: 5.935
+Epoch: 11, Training loss: 20.213, Validation loss: 5.702
+Epoch: 12, Training loss: 17.79, Validation loss: 5.418
+Epoch: 13, Training loss: 17.777, Validation loss: 5.302
+Epoch: 14, Training loss: 15.478, Validation loss: 5.393
+
+Hyperparameters:  0.0001 32 5 0.5
+Training model
+Epoch: 0, Training loss: 119.827, Validation loss: 16.976
+Epoch: 1, Training loss: 58.997, Validation loss: 10.245
+Epoch: 2, Training loss: 40.174, Validation loss: 8.82
+Epoch: 3, Training loss: 30.901, Validation loss: 7.261
+Epoch: 4, Training loss: 27.19, Validation loss: 6.581
+Epoch: 5, Training loss: 20.879, Validation loss: 6.232
+Epoch: 6, Training loss: 16.77, Validation loss: 5.714
+Epoch: 7, Training loss: 15.354, Validation loss: 5.452
+Epoch: 8, Training loss: 12.815, Validation loss: 4.845
+Epoch: 9, Training loss: 12.642, Validation loss: 5.074
+Epoch: 10, Training loss: 10.784, Validation loss: 4.872
+Epoch: 11, Training loss: 8.19, Validation loss: 5.02
+Epoch: 12, Training loss: 7.057, Validation loss: 4.714
+Epoch: 13, Training loss: 6.451, Validation loss: 4.688
+Epoch: 14, Training loss: 5.752, Validation loss: 4.523
+
+Hyperparameters:  0.0001 32 5 0.7
+Training model
+Epoch: 0, Training loss: 162.16, Validation loss: 23.064
+Epoch: 1, Training loss: 77.011, Validation loss: 13.901
+Epoch: 2, Training loss: 54.866, Validation loss: 11.402
+Epoch: 3, Training loss: 41.962, Validation loss: 9.19
+Epoch: 4, Training loss: 40.78, Validation loss: 8.322
+Epoch: 5, Training loss: 32.171, Validation loss: 7.24
+Epoch: 6, Training loss: 27.898, Validation loss: 6.868
+Epoch: 7, Training loss: 24.524, Validation loss: 6.341
+Epoch: 8, Training loss: 27.217, Validation loss: 6.285
+Epoch: 9, Training loss: 25.606, Validation loss: 6.275
+Epoch: 10, Training loss: 21.606, Validation loss: 5.603
+Epoch: 11, Training loss: 18.768, Validation loss: 5.492
+Epoch: 12, Training loss: 18.882, Validation loss: 5.62
+Epoch: 13, Training loss: 16.097, Validation loss: 5.14
+Epoch: 14, Training loss: 14.28, Validation loss: 5.259
+
+Hyperparameters:  0.0001 64 3 0.5
+Training model
+Epoch: 0, Training loss: 69.622, Validation loss: 10.888
+Epoch: 1, Training loss: 36.726, Validation loss: 7.802
+Epoch: 2, Training loss: 25.48, Validation loss: 5.879
+Epoch: 3, Training loss: 19.662, Validation loss: 4.824
+Epoch: 4, Training loss: 16.609, Validation loss: 4.208
+Epoch: 5, Training loss: 14.458, Validation loss: 3.842
+Epoch: 6, Training loss: 12.378, Validation loss: 3.673
+Epoch: 7, Training loss: 11.143, Validation loss: 3.337
+Epoch: 8, Training loss: 9.218, Validation loss: 3.24
+Epoch: 9, Training loss: 8.708, Validation loss: 3.044
+Epoch: 10, Training loss: 7.327, Validation loss: 3.018
+Epoch: 11, Training loss: 6.83, Validation loss: 2.822
+Epoch: 12, Training loss: 5.898, Validation loss: 2.719
+Epoch: 13, Training loss: 7.986, Validation loss: 2.763
+Epoch: 14, Training loss: 4.749, Validation loss: 2.853
+
+Hyperparameters:  0.0001 64 3 0.7
+Training model
+Epoch: 0, Training loss: 80.253, Validation loss: 12.395
+Epoch: 1, Training loss: 44.108, Validation loss: 8.805
+Epoch: 2, Training loss: 34.781, Validation loss: 6.674
+Epoch: 3, Training loss: 26.407, Validation loss: 5.876
+Epoch: 4, Training loss: 22.557, Validation loss: 5.209
+Epoch: 5, Training loss: 19.297, Validation loss: 4.6
+Epoch: 6, Training loss: 17.181, Validation loss: 4.373
+Epoch: 7, Training loss: 15.49, Validation loss: 3.878
+Epoch: 8, Training loss: 14.072, Validation loss: 3.628
+Epoch: 9, Training loss: 14.719, Validation loss: 3.411
+Epoch: 10, Training loss: 11.856, Validation loss: 3.4
+Epoch: 11, Training loss: 10.733, Validation loss: 3.24
+Epoch: 12, Training loss: 10.23, Validation loss: 3.161
+Epoch: 13, Training loss: 10.397, Validation loss: 2.97
+Epoch: 14, Training loss: 8.825, Validation loss: 2.87
+
+Hyperparameters:  0.0001 64 5 0.5
+Training model
+Epoch: 0, Training loss: 68.586, Validation loss: 10.2
+Epoch: 1, Training loss: 33.328, Validation loss: 6.668
+Epoch: 2, Training loss: 25.011, Validation loss: 5.252
+Epoch: 3, Training loss: 18.49, Validation loss: 4.38
+Epoch: 4, Training loss: 15.15, Validation loss: 3.769
+Epoch: 5, Training loss: 12.914, Validation loss: 3.618
+Epoch: 6, Training loss: 10.528, Validation loss: 3.185
+Epoch: 7, Training loss: 9.866, Validation loss: 2.937
+Epoch: 8, Training loss: 11.68, Validation loss: 3.162
+Epoch: 9, Training loss: 9.143, Validation loss: 2.889
+Epoch: 10, Training loss: 7.215, Validation loss: 2.608
+Epoch: 11, Training loss: 7.107, Validation loss: 2.596
+Epoch: 12, Training loss: 5.166, Validation loss: 2.457
+Epoch: 13, Training loss: 5.045, Validation loss: 2.39
+Epoch: 14, Training loss: 4.611, Validation loss: 2.372
+
+Hyperparameters:  0.0001 64 5 0.7
+Training model
+Epoch: 0, Training loss: 81.429, Validation loss: 12.067
+Epoch: 1, Training loss: 44.973, Validation loss: 8.93
+Epoch: 2, Training loss: 34.489, Validation loss: 7.615
+Epoch: 3, Training loss: 27.692, Validation loss: 6.269
+Epoch: 4, Training loss: 23.347, Validation loss: 5.349
+Epoch: 5, Training loss: 19.886, Validation loss: 4.828
+Epoch: 6, Training loss: 17.653, Validation loss: 4.345
+Epoch: 7, Training loss: 15.601, Validation loss: 3.984
+Epoch: 8, Training loss: 14.309, Validation loss: 3.884
+Epoch: 9, Training loss: 13.308, Validation loss: 3.629
+Epoch: 10, Training loss: 14.989, Validation loss: 3.586
+Epoch: 11, Training loss: 15.504, Validation loss: 3.558
+Epoch: 12, Training loss: 13.249, Validation loss: 3.404
+Epoch: 13, Training loss: 10.991, Validation loss: 3.179
+Epoch: 14, Training loss: 10.495, Validation loss: 3.002
+
+Hyperparameters:  0.0001 128 3 0.5
+Training model
+Epoch: 0, Training loss: 39.834, Validation loss: 6.233
+Epoch: 1, Training loss: 21.879, Validation loss: 4.73
+Epoch: 2, Training loss: 16.22, Validation loss: 3.68
+Epoch: 3, Training loss: 12.748, Validation loss: 3.058
+Epoch: 4, Training loss: 10.213, Validation loss: 2.652
+Epoch: 5, Training loss: 8.621, Validation loss: 2.345
+Epoch: 6, Training loss: 7.464, Validation loss: 2.13
+Epoch: 7, Training loss: 6.443, Validation loss: 2.001
+Epoch: 8, Training loss: 5.637, Validation loss: 1.878
+Epoch: 9, Training loss: 4.931, Validation loss: 1.746
+Epoch: 10, Training loss: 4.399, Validation loss: 1.657
+Epoch: 11, Training loss: 3.691, Validation loss: 1.579
+Epoch: 12, Training loss: 3.299, Validation loss: 1.576
+Epoch: 13, Training loss: 2.96, Validation loss: 1.516
+Epoch: 14, Training loss: 2.622, Validation loss: 1.45
+
+Hyperparameters:  0.0001 128 3 0.7
+Training model
+Epoch: 0, Training loss: 46.953, Validation loss: 7.346
+Epoch: 1, Training loss: 26.395, Validation loss: 5.64
+Epoch: 2, Training loss: 20.647, Validation loss: 4.603
+Epoch: 3, Training loss: 16.814, Validation loss: 3.84
+Epoch: 4, Training loss: 14.084, Validation loss: 3.283
+Epoch: 5, Training loss: 12.054, Validation loss: 2.87
+Epoch: 6, Training loss: 10.59, Validation loss: 2.595
+Epoch: 7, Training loss: 9.433, Validation loss: 2.363
+Epoch: 8, Training loss: 8.609, Validation loss: 2.193
+Epoch: 9, Training loss: 7.725, Validation loss: 2.086
+Epoch: 10, Training loss: 7.269, Validation loss: 1.929
+Epoch: 11, Training loss: 6.49, Validation loss: 1.864
+Epoch: 12, Training loss: 6.042, Validation loss: 1.774
+Epoch: 13, Training loss: 5.702, Validation loss: 1.663
+Epoch: 14, Training loss: 5.123, Validation loss: 1.647
+
+Hyperparameters:  0.0001 128 5 0.5
+Training model
+Epoch: 0, Training loss: 38.589, Validation loss: 6.183
+Epoch: 1, Training loss: 20.665, Validation loss: 4.339
+Epoch: 2, Training loss: 14.86, Validation loss: 3.322
+Epoch: 3, Training loss: 11.378, Validation loss: 2.819
+Epoch: 4, Training loss: 9.149, Validation loss: 2.266
+Epoch: 5, Training loss: 7.681, Validation loss: 2.115
+Epoch: 6, Training loss: 6.53, Validation loss: 1.871
+Epoch: 7, Training loss: 5.566, Validation loss: 1.74
+Epoch: 8, Training loss: 4.831, Validation loss: 1.629
+Epoch: 9, Training loss: 4.18, Validation loss: 1.576
+Epoch: 10, Training loss: 3.467, Validation loss: 1.489
+Epoch: 11, Training loss: 3.169, Validation loss: 1.395
+Epoch: 12, Training loss: 2.748, Validation loss: 1.398
+Epoch: 13, Training loss: 2.457, Validation loss: 1.342
+Epoch: 14, Training loss: 2.074, Validation loss: 1.343
+
+Hyperparameters:  0.0001 128 5 0.7
+Training model
+Epoch: 0, Training loss: 47.167, Validation loss: 7.282
+Epoch: 1, Training loss: 25.638, Validation loss: 5.396
+Epoch: 2, Training loss: 19.778, Validation loss: 4.414
+Epoch: 3, Training loss: 15.72, Validation loss: 3.662
+Epoch: 4, Training loss: 13.007, Validation loss: 3.121
+Epoch: 5, Training loss: 11.018, Validation loss: 2.724
+Epoch: 6, Training loss: 9.44, Validation loss: 2.369
+Epoch: 7, Training loss: 8.429, Validation loss: 2.107
+Epoch: 8, Training loss: 7.484, Validation loss: 1.992
+Epoch: 9, Training loss: 6.556, Validation loss: 1.843
+Epoch: 10, Training loss: 5.927, Validation loss: 1.78
+Epoch: 11, Training loss: 5.402, Validation loss: 1.645
+Epoch: 12, Training loss: 5.019, Validation loss: 1.551
+Epoch: 13, Training loss: 4.482, Validation loss: 1.526
+Epoch: 14, Training loss: 4.005, Validation loss: 1.403
+
+Hyperparameters:  1e-05 32 3 0.5
+Training model
+Epoch: 0, Training loss: 238.686, Validation loss: 42.994
+Epoch: 1, Training loss: 161.02, Validation loss: 32.846
+Epoch: 2, Training loss: 130.663, Validation loss: 28.766
+Epoch: 3, Training loss: 114.197, Validation loss: 25.315
+Epoch: 4, Training loss: 104.004, Validation loss: 23.217
+Epoch: 5, Training loss: 97.756, Validation loss: 21.545
+Epoch: 6, Training loss: 89.454, Validation loss: 20.314
+Epoch: 7, Training loss: 82.804, Validation loss: 19.507
+Epoch: 8, Training loss: 79.108, Validation loss: 18.626
+Epoch: 9, Training loss: 74.797, Validation loss: 17.365
+Epoch: 10, Training loss: 71.529, Validation loss: 16.725
+Epoch: 11, Training loss: 67.189, Validation loss: 16.07
+Epoch: 12, Training loss: 64.896, Validation loss: 15.294
+Epoch: 13, Training loss: 63.277, Validation loss: 15.01
+Epoch: 14, Training loss: 61.066, Validation loss: 13.401
+
+Hyperparameters:  1e-05 32 3 0.7
+Training model
+Epoch: 0, Training loss: 268.347, Validation loss: 51.618
+Epoch: 1, Training loss: 188.735, Validation loss: 39.659
+Epoch: 2, Training loss: 154.354, Validation loss: 34.028
+Epoch: 3, Training loss: 136.967, Validation loss: 30.823
+Epoch: 4, Training loss: 122.542, Validation loss: 28.37
+Epoch: 5, Training loss: 113.059, Validation loss: 25.764
+Epoch: 6, Training loss: 105.363, Validation loss: 24.078
+Epoch: 7, Training loss: 99.28, Validation loss: 23.303
+Epoch: 8, Training loss: 95.34, Validation loss: 21.201
+Epoch: 9, Training loss: 88.219, Validation loss: 20.426
+Epoch: 10, Training loss: 84.24, Validation loss: 18.738
+Epoch: 11, Training loss: 80.998, Validation loss: 18.865
+Epoch: 12, Training loss: 76.605, Validation loss: 17.793
+Epoch: 13, Training loss: 73.419, Validation loss: 16.9
+Epoch: 14, Training loss: 70.117, Validation loss: 16.494
+
+Hyperparameters:  1e-05 32 5 0.5
+Training model
+Epoch: 0, Training loss: 246.787, Validation loss: 42.726
+Epoch: 1, Training loss: 158.403, Validation loss: 33.249
+Epoch: 2, Training loss: 131.501, Validation loss: 28.769
+Epoch: 3, Training loss: 116.343, Validation loss: 25.878
+Epoch: 4, Training loss: 104.633, Validation loss: 24.39
+Epoch: 5, Training loss: 96.911, Validation loss: 22.508
+Epoch: 6, Training loss: 90.132, Validation loss: 20.899
+Epoch: 7, Training loss: 83.589, Validation loss: 19.006
+Epoch: 8, Training loss: 78.791, Validation loss: 18.146
+Epoch: 9, Training loss: 74.61, Validation loss: 17.238
+Epoch: 10, Training loss: 71.24, Validation loss: 16.675
+Epoch: 11, Training loss: 66.648, Validation loss: 15.435
+Epoch: 12, Training loss: 64.165, Validation loss: 14.614
+Epoch: 13, Training loss: 60.088, Validation loss: 13.922
+Epoch: 14, Training loss: 55.997, Validation loss: 13.557
+
+Hyperparameters:  1e-05 32 5 0.7
+Training model
+Epoch: 0, Training loss: 262.419, Validation loss: 51.883
+Epoch: 1, Training loss: 189.489, Validation loss: 40.776
+Epoch: 2, Training loss: 156.849, Validation loss: 34.879
+Epoch: 3, Training loss: 137.309, Validation loss: 31.053
+Epoch: 4, Training loss: 123.332, Validation loss: 28.589
+Epoch: 5, Training loss: 115.138, Validation loss: 25.834
+Epoch: 6, Training loss: 107.426, Validation loss: 24.669
+Epoch: 7, Training loss: 100.935, Validation loss: 22.94
+Epoch: 8, Training loss: 97.26, Validation loss: 21.523
+Epoch: 9, Training loss: 91.084, Validation loss: 20.625
+Epoch: 10, Training loss: 87.179, Validation loss: 19.392
+Epoch: 11, Training loss: 83.629, Validation loss: 18.604
+Epoch: 12, Training loss: 79.501, Validation loss: 18.502
+Epoch: 13, Training loss: 76.84, Validation loss: 17.491
+Epoch: 14, Training loss: 74.676, Validation loss: 16.526
+
+Hyperparameters:  1e-05 64 3 0.5
+Training model
+Epoch: 0, Training loss: 128.339, Validation loss: 24.643
+Epoch: 1, Training loss: 90.209, Validation loss: 19.589
+Epoch: 2, Training loss: 75.523, Validation loss: 17.09
+Epoch: 3, Training loss: 67.458, Validation loss: 15.506
+Epoch: 4, Training loss: 61.455, Validation loss: 14.389
+Epoch: 5, Training loss: 57.542, Validation loss: 13.13
+Epoch: 6, Training loss: 53.831, Validation loss: 12.978
+Epoch: 7, Training loss: 50.847, Validation loss: 12.067
+Epoch: 8, Training loss: 47.904, Validation loss: 11.537
+Epoch: 9, Training loss: 45.618, Validation loss: 11.229
+Epoch: 10, Training loss: 43.59, Validation loss: 10.325
+Epoch: 11, Training loss: 41.824, Validation loss: 9.884
+Epoch: 12, Training loss: 40.919, Validation loss: 9.761
+Epoch: 13, Training loss: 38.806, Validation loss: 9.122
+Epoch: 14, Training loss: 38.344, Validation loss: 8.788
+
+Hyperparameters:  1e-05 64 3 0.7
+Training model
+Epoch: 0, Training loss: 138.663, Validation loss: 28.435
+Epoch: 1, Training loss: 102.862, Validation loss: 22.593
+Epoch: 2, Training loss: 86.446, Validation loss: 19.914
+Epoch: 3, Training loss: 76.86, Validation loss: 18.182
+Epoch: 4, Training loss: 70.555, Validation loss: 16.918
+Epoch: 5, Training loss: 65.901, Validation loss: 15.491
+Epoch: 6, Training loss: 62.232, Validation loss: 14.772
+Epoch: 7, Training loss: 59.805, Validation loss: 13.779
+Epoch: 8, Training loss: 55.788, Validation loss: 13.451
+Epoch: 9, Training loss: 53.124, Validation loss: 12.935
+Epoch: 10, Training loss: 50.888, Validation loss: 12.226
+Epoch: 11, Training loss: 49.515, Validation loss: 11.757
+Epoch: 12, Training loss: 48.605, Validation loss: 11.46
+Epoch: 13, Training loss: 45.577, Validation loss: 11.062
+Epoch: 14, Training loss: 43.777, Validation loss: 10.812
+
+Hyperparameters:  1e-05 64 5 0.5
+Training model
+Epoch: 0, Training loss: 128.473, Validation loss: 24.681
+Epoch: 1, Training loss: 90.05, Validation loss: 19.559
+Epoch: 2, Training loss: 74.887, Validation loss: 17.488
+Epoch: 3, Training loss: 66.516, Validation loss: 15.568
+Epoch: 4, Training loss: 60.479, Validation loss: 14.421
+Epoch: 5, Training loss: 56.865, Validation loss: 13.329
+Epoch: 6, Training loss: 52.759, Validation loss: 12.726
+Epoch: 7, Training loss: 50.086, Validation loss: 11.931
+Epoch: 8, Training loss: 47.33, Validation loss: 11.3
+Epoch: 9, Training loss: 46.512, Validation loss: 10.744
+Epoch: 10, Training loss: 44.195, Validation loss: 10.527
+Epoch: 11, Training loss: 41.518, Validation loss: 10.325
+Epoch: 12, Training loss: 39.625, Validation loss: 10.135
+Epoch: 13, Training loss: 38.84, Validation loss: 9.207
+Epoch: 14, Training loss: 37.341, Validation loss: 9.138
+
+Hyperparameters:  1e-05 64 5 0.7
+Training model
+Epoch: 0, Training loss: 140.653, Validation loss: 29.377
+Epoch: 1, Training loss: 106.614, Validation loss: 23.203
+Epoch: 2, Training loss: 87.278, Validation loss: 19.939
+Epoch: 3, Training loss: 76.491, Validation loss: 17.575
+Epoch: 4, Training loss: 69.52, Validation loss: 15.993
+Epoch: 5, Training loss: 64.315, Validation loss: 15.021
+Epoch: 6, Training loss: 60.712, Validation loss: 14.181
+Epoch: 7, Training loss: 56.697, Validation loss: 13.229
+Epoch: 8, Training loss: 53.851, Validation loss: 12.626
+Epoch: 9, Training loss: 51.737, Validation loss: 12.526
+Epoch: 10, Training loss: 49.665, Validation loss: 12.164
+Epoch: 11, Training loss: 47.857, Validation loss: 11.369
+Epoch: 12, Training loss: 46.402, Validation loss: 11.298
+Epoch: 13, Training loss: 45.194, Validation loss: 10.77
+Epoch: 14, Training loss: 43.753, Validation loss: 10.774
+
+Hyperparameters:  1e-05 128 3 0.5
+Training model
+Epoch: 0, Training loss: 70.166, Validation loss: 14.388
+Epoch: 1, Training loss: 51.707, Validation loss: 11.308
+Epoch: 2, Training loss: 42.683, Validation loss: 9.768
+Epoch: 3, Training loss: 37.485, Validation loss: 8.809
+Epoch: 4, Training loss: 33.865, Validation loss: 8.091
+Epoch: 5, Training loss: 31.41, Validation loss: 7.525
+Epoch: 6, Training loss: 29.266, Validation loss: 7.088
+Epoch: 7, Training loss: 27.897, Validation loss: 6.711
+Epoch: 8, Training loss: 26.223, Validation loss: 6.408
+Epoch: 9, Training loss: 25.159, Validation loss: 6.122
+Epoch: 10, Training loss: 23.936, Validation loss: 5.894
+Epoch: 11, Training loss: 22.922, Validation loss: 5.665
+Epoch: 12, Training loss: 21.979, Validation loss: 5.469
+Epoch: 13, Training loss: 21.139, Validation loss: 5.288
+Epoch: 14, Training loss: 20.405, Validation loss: 5.093
+
+Hyperparameters:  1e-05 128 3 0.7
+Training model
+Epoch: 0, Training loss: 76.928, Validation loss: 17.26
+Epoch: 1, Training loss: 62.896, Validation loss: 13.847
+Epoch: 2, Training loss: 52.003, Validation loss: 11.883
+Epoch: 3, Training loss: 45.42, Validation loss: 10.616
+Epoch: 4, Training loss: 40.967, Validation loss: 9.771
+Epoch: 5, Training loss: 37.924, Validation loss: 9.083
+Epoch: 6, Training loss: 35.504, Validation loss: 8.537
+Epoch: 7, Training loss: 33.379, Validation loss: 8.101
+Epoch: 8, Training loss: 31.727, Validation loss: 7.717
+Epoch: 9, Training loss: 30.236, Validation loss: 7.369
+Epoch: 10, Training loss: 28.963, Validation loss: 7.098
+Epoch: 11, Training loss: 27.921, Validation loss: 6.774
+Epoch: 12, Training loss: 26.768, Validation loss: 6.583
+Epoch: 13, Training loss: 25.697, Validation loss: 6.327
+Epoch: 14, Training loss: 25.004, Validation loss: 6.099
+
+Hyperparameters:  1e-05 128 5 0.5
+Training model
+Epoch: 0, Training loss: 70.796, Validation loss: 15.179
+Epoch: 1, Training loss: 52.747, Validation loss: 11.244
+Epoch: 2, Training loss: 41.572, Validation loss: 9.513
+Epoch: 3, Training loss: 36.01, Validation loss: 8.494
+Epoch: 4, Training loss: 32.337, Validation loss: 7.755
+Epoch: 5, Training loss: 29.55, Validation loss: 7.174
+Epoch: 6, Training loss: 27.58, Validation loss: 6.677
+Epoch: 7, Training loss: 25.618, Validation loss: 6.263
+Epoch: 8, Training loss: 24.298, Validation loss: 5.983
+Epoch: 9, Training loss: 22.798, Validation loss: 5.647
+Epoch: 10, Training loss: 21.742, Validation loss: 5.35
+Epoch: 11, Training loss: 20.687, Validation loss: 5.157
+Epoch: 12, Training loss: 19.657, Validation loss: 4.929
+Epoch: 13, Training loss: 18.824, Validation loss: 4.721
+Epoch: 14, Training loss: 18.16, Validation loss: 4.549
+
+Hyperparameters:  1e-05 128 5 0.7
+Training model
+Epoch: 0, Training loss: 74.715, Validation loss: 16.553
+Epoch: 1, Training loss: 60.893, Validation loss: 13.722
+Epoch: 2, Training loss: 51.251, Validation loss: 11.759
+Epoch: 3, Training loss: 44.846, Validation loss: 10.46
+Epoch: 4, Training loss: 40.19, Validation loss: 9.53
+Epoch: 5, Training loss: 36.814, Validation loss: 8.773
+Epoch: 6, Training loss: 34.269, Validation loss: 8.212
+Epoch: 7, Training loss: 32.084, Validation loss: 7.774
+Epoch: 8, Training loss: 30.433, Validation loss: 7.379
+Epoch: 9, Training loss: 28.842, Validation loss: 7.021
+Epoch: 10, Training loss: 27.626, Validation loss: 6.694
+Epoch: 11, Training loss: 26.455, Validation loss: 6.43
+Epoch: 12, Training loss: 25.467, Validation loss: 6.211
+Epoch: 13, Training loss: 24.451, Validation loss: 5.969
+Epoch: 14, Training loss: 23.5, Validation loss: 5.767
+
+
+
+Looking at the graphs:
+bs=32
+lr=0.001
+ks=5
+dprob=0.7
